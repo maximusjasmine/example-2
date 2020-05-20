@@ -6,7 +6,8 @@ class App extends React.Component {
   constructor(props){
     super(props);
     this.state={
-      color: 'blue'
+      color: 'blue', 
+      width: 100px
     }
   }
 
